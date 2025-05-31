@@ -1,0 +1,16 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.db
+*.cache
+*.log
+
+# Build results
+bin/
+obj/
+
+# Other
+*.swp
+*.bak
+*.tmp
